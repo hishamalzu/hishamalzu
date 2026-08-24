@@ -27,4 +27,4 @@ I am an incoming **MEng Electrical and Electronic Engineering (EEE)** student at
 ## 📫 Let's Connect!
 
 * **LinkedIn:** www.linkedin.com/in/hisham-al-zubair-a9844b418
-* **Imperial Email:** hishamalzubair17@gmail.com
+* **Email:** hishamalzubair17@gmail.com
