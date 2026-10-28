@@ -1,6 +1,6 @@
 # Hi there, I'm Hisham 🙌
 
-I am an incoming **MEng Electrical and Electronic Engineering (EEE)** student at **Imperial College London** (Starting Autumn 2026). My focus is on digital system design, verification, and building open-source hardware workflows.
+I am a **MEng Electrical and Electronic Engineering (EEE)** student at **Imperial College London** (Started Autumn 2026). My focus is on digital system design, verification, and building open-source hardware workflows.
 
 ---
 
@@ -8,7 +8,7 @@ I am an incoming **MEng Electrical and Electronic Engineering (EEE)** student at
 
 ### **Digital Design & Verification**
 * **Languages:** SystemVerilog
-* **Tools:** GTKWave (Waveform debugging, simulation analysis)
+* **Tools:** GTKWave (Waveform debugging, simulation analysis), CocoTB(Python)
 
 ### **Software & DevOps**
 * **Languages:** Python (Automation, script-based hardware testing)
